@@ -2,25 +2,13 @@
 
 🚨 Atenção: 
 
-Promoção por tempo indeterminado: Versão Paga de R$ 70,00 por 45,00 = Pronta para Docker Stanalone e Docker Swarm.
 
-Para adquirir a versão mais atualizada 6.0.0 e ter acesso a outras versões que são vendidas no mercado como bônus, acesse uma das opções de checkout a seguir:
+Para adquirir a versão mais atualizada 6.0.0 e ter acesso a outras versões que são vendidas no mercado como bônus, acesse uma das opções de checkout a seguir: https://t.me/whaticketsaas na aba COMPRE AQUI.
 
-InfinityPay:
-https://loja.infinitepay.io/launcher-tecnologia/aep0253-script-crm-whaticket-gold-com-saas-e-kanba
-
-Kirvano:
-https://pay.kirvano.com/a5103244-08d5-418f-8221-7172849dd65f
-
-DFG:
-https://www.dfg.com.br/pt/outros/script-crm-whaticket-gold-com-saas-e-kanban-inclusos-939289065
-
-Você deve ter um usuário do Github e juntar-se à nossa organização para acesso ao diretório privado com a última versão, você receberá também as credencias do Github para instalação, usuário e token. 
-O acesso é vitalício, as credencias são periodicamente renovadas, você sempre terá a informação das novas.
 
 Baseado no Whaticket Gold da PLW Designer
 
-Distribuido por Launcher & Co.
+Distribuido por Whaticket Saas.
 
 🗣️ DialogFlow</br>
 🔄 N8N</br>
@@ -37,31 +25,10 @@ STANDARD: 6 vCores, 12 GB de RAM e 200 GB de SSD NVMe $9.99 USD Mensal com taxa 
 Utilize o cupom WHATICKET e obtenha 25% de desconto no primeiro pagamento.
 
 ```
-https://control.peramix.com/?affid=14
+    https://control.peramix.com/?affid=187
 ```
 
-VPS 1000 G11: 4 vCores, 8 GB de RAM e 256 GB de SSD NVMe €5.75 Mensal.
-
-VPS 2000 G11: 8 vCores, 16 GB de RAM e 512 GB de SSD NVMe €12.60 Mensal.
-
-https://www.netcup.com/en/?ref=257888
-
-Voucher de 5 euros:
-
-```
-36nc17424834870
-```
-```
-36nc17415489990
-```
-```
-36nc17424834870
-```
-```
-36nc17415489990
-```
-
-Arquivos para Docker em https://github.com/launcherbr/whaticketdocker
+Arquivos para Docker em no privado.
 
 ⚠️ Este diretório é uma cortesia da Launcher & Co. se você pagou por este acesso, foi enganado, recomendamos solicitar o estorno no seu cartão de crédito ou no seu banco.
 
@@ -121,29 +88,20 @@ Arquivos para Docker em https://github.com/launcherbr/whaticketdocker
 🆕 Novo layout da página de login. </br>
 💬 Indicação “Digitando” ou “Gravando” aparece no ticket, no canto inferior direito, ao lado do nome. </br>
 
-Biblioteca Baileys Atualizada:</br>
+Biblioteca Baileys Atualizada:
 
 V 6.7.16
 
 Instalador atualizado, versao NodeJS 20:
 
-https://github.com/launcherbr/instalador.git
+https://github.com/luisfilipegdc/instalador
 
 Arquivos para gerar imagem docker:
 
-https://github.com/launcherbr/whaticketdocker
+Solicitar no privado
 
-Notas Rápidas: </br>
-Requer servidor Ubuntu 20.04 LTS com ao menos 4 vcore e 8gb de ram.</br>
-Recomendamos Peramix, Contabo, e Hetzner</br>
-Não recomendamos Hostinger, Hostgator e Locaweb.</br>
-Evite latencia muito baixa e muito alta (servidor local e servidores na Europa)</br>
-
-Siga o arquivo de Instruções para instalação:</br>
-https://drive.google.com/drive/folders/1KfRvnsT7YF3Vj5ROXGS3ZsIdfWjV1023?usp=sharing
-
-Confira no pdf aqui como gerar um webhook de retorno automático de pagamento da Efi.</br>
-https://drive.google.com/file/d/1Kjd-9NurK-7gw7_22-uIsZoB0MZ74YFp/view?usp=drive_link
-
-Personalizações:</br>
-As instruções para alteração de cores, logo, icones e nome da instalação estão no arquivo de instruções.
+Notas Rápidas:
+Requer servidor Ubuntu 20.04 LTS com ao menos 4 vcore e 8gb de ram.
+Recomendamos Peramix, Contabo, e Hetzner
+Não recomendamos Hostinger, Hostgator e Locaweb.
+Evite latencia muito baixa e muito alta (servidor local e servidores na Europa)
